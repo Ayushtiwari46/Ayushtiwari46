@@ -43,7 +43,7 @@ Use the same steps in whichever of the five repositories you cloned. Pull first 
 
 ## Older repositories
 
-These still exist and were not deleted. New work goes in the five repositories above.
+The older repositories were merged into the five above and removed. Their full history is in [Legacy-Archive](https://github.com/Ayushtiwari46/Legacy-Archive) under `Retired-Repos/`, with restore steps.
 
 | Older repository | Now lives in |
 | --- | --- |
@@ -54,4 +54,4 @@ These still exist and were not deleted. New work goes in the five repositories a
 | Lab, Virtualization | Infrastructure-Lab |
 | AI | AI-and-Tools `/experiments/ai` |
 | Infra_Audit | Infrastructure-Audit |
-| Legacy-Archive | Kept as the historical backup. Useful projects were copied into the five repositories. |
+| [Legacy-Archive](https://github.com/Ayushtiwari46/Legacy-Archive) | Kept as the historical backup. Useful projects were copied into the five repositories. |
